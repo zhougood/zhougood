@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm Zhiwei Zhou, currently pursuing my Master's degree in Duke University, major in Software Development.
-:Here is my personal website: [website](https://www.linkedin.com/in/zhiwei-zhou-636647185/)
+:Here is my personal website: [website](https://zhougood.github.io/)
 - :mortar_board: I expect to obtain my degree at May 2023
 - :thumbsup: I am good at algorithm, Java/C++ OOD, Linux, and system programming
 - :raising_hand_man: How to reach me: [Linkedin](https://www.linkedin.com/in/zhiwei-zhou-636647185/)
